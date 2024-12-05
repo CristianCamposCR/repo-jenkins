@@ -3,7 +3,7 @@
   <div id="app">
     <nav>
       <ul>
-        <li><router-link to="/">Inicio restaurado</router-link></li>
+        <li><router-link to="/">Inicio restaurado cambiado</router-link></li>
         <li><router-link to="/about">Acerca de</router-link></li>
       </ul>
     </nav>
